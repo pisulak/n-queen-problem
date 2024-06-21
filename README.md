@@ -1,8 +1,8 @@
 # n-queen-problem
-University project for intro to artificial intelligence classes
+University project for intro to artificial intelligence classes.
 
-
-# Problem 8 hetmanów
+# Polish version of the task:
+## Problem 8 hetmanów
 
 ![n-queen-1](https://github.com/pisulak/n-queen-problem/assets/127031073/8b01c657-4ec3-48df-b0f3-605fec556d6d)
 
